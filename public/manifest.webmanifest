@@ -1,0 +1,19 @@
+{
+  "name": "OPEN UNIVERSITY ESCAPE",
+  "short_name": "OU Escape",
+  "description": "משחק בריחה תלת-ממדי הומוריסטי מהמוקד של האוניברסיטה הפתוחה",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#1e3a8a",
+  "dir": "rtl",
+  "lang": "he",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
